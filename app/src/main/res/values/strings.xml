@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stock_Fetcher</string>
+    <string name="enter_stock_symbol">Enter Stock Symbol</string>
+    <string name="stock_price">Stock Price:</string>
+    <string name="industry">Industry:</string>
+    <string name="stock_fetcher">Stock Fetcher</string>
+    <string name="developed_by_viraj_wakle">Developed by: Viraj Wakle</string>
+    <string name="this_app_fetches_data_only_from_the_indian_stock_market">This app fetches data only from the Indian stock market</string>
+</resources>
